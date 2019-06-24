@@ -2,11 +2,11 @@ There are 5 major phases in the game which are listed below with their respectiv
 
   1) Letting the player know about the game rules by instruction-screen which includes the following things:
 
-   a) How to play. <br>
-   b) Scoring mechanism. <br>
-   c) How to quit the game anytime. <br>
-    snapshot of instruction screen: https://drive.google.com/open?id=1I5Vt0tMaejfcxWtdilVY_W-SSMTSBmlz <br>
-    snapshot of a normal instance of the game: https://drive.google.com/open?id=1_fYvzzxIF08-pf2X4SjS_AsO7ptHt9Pb <br>
+      a) How to play. <br>
+      b) Scoring mechanism. <br>
+      c) How to quit the game anytime. <br>
+       snapshot of instruction screen: https://drive.google.com/open?id=1I5Vt0tMaejfcxWtdilVY_W-SSMTSBmlz <br>
+      snapshot of a normal instance of the game: https://drive.google.com/open?id=1_fYvzzxIF08-pf2X4SjS_AsO7ptHt9Pb <br>
 
   2) A successful hit: When the ball comes inside the target box, the user has to press the 'H' button to hit the ball with the laser beam and 1 point will be given to the player and the score will be incremented by 1.
     snapshot link: https://drive.google.com/open?id=1jXpL9xVkKGz2YrHeMwAZdeAoa534oWJ4 <br>
